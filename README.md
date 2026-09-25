@@ -1,5 +1,12 @@
 # o/
 
+
+> [!IMPORTANT]
+>
+> ### ive moved!
+>
+> ive moved my git hosting to a selfhosted [forgejo instance](https://git.orcachill.in/max)! all of my repos have been migrated there, including docker images! for the most up to date changes, look there! thanks :3
+
 seattle-based sofware developer orca specializing in backend applications. obsessed with public transit, vr, and open source software. 
 currently working at [Starfall](https://www.roblox.com/communities/1191237/St-rfall) building custom moderation systems designed for roleplay games. 
 
